@@ -1,7 +1,9 @@
 # Album
 
 
-##Snapshot
+## Snapshot
+
+
 <img width="229" alt="Screenshot 2023-11-13 at 16 52 41" src="https://github.com/sulunbatuhan/Album/assets/16906501/ea55e245-45ec-403a-a01c-804929dfa2b3">
 <img width="229" alt="Screenshot 2023-11-13 at 16 52 34" src="https://github.com/sulunbatuhan/Album/assets/16906501/52b0a988-2010-40ec-bb04-9c7999c59aab">
 <img width="229" alt="Screenshot 2023-11-13 at 16 52 25" src="https://github.com/sulunbatuhan/Album/assets/16906501/00489a9e-c198-4aba-a540-996f66f0e146">
